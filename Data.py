@@ -23,7 +23,7 @@ class Data:
  ├ /speedtest - Untuk Mengetes Kecepatan Server Bot
  └ /broadcast - Untuk Mengirim Pesan Broadcast ke Pengguna Bot
  
-👨‍💻 Develoved by </b><a href='https://t.me/faksyiit'>@faksyiit</a>
+👨‍💻 Develoved by </b><a href='https://t.me/callmesunoo'>@callmesunoo</a>
 """
 
     close = [
@@ -53,5 +53,5 @@ class Data:
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
  • Programming Language: <a href='https://www.python.org'>Python</a>
 
-👨‍💻 Develoved by </b><a href='https://t.me/faksyiit'>@faksyiit</a>
+👨‍💻 Develoved by </b><a href='https://t.me/callmesunoo'>@callmesunoo</a>
 """
